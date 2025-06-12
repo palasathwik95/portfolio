@@ -6,14 +6,14 @@ const Projects = () => {
     {
       title: 'Code Academy',
       description: 'A comprehensive online learning platform for coding tutorials and programming courses. Built with modern web technologies to provide an interactive learning experience.',
-      image: '/images/codeacademy.png',
+      image: '/codeacademy.png',
       technologies: ['React','HTML','CSS',' JavaScript'],
       github: 'https://github.com/palasathwik95/Code-academy.git',
     },
     {
       title: 'Trend Aura',
       description: 'A modern e-commerce platform featuring trendy fashion items with user-friendly interface, shopping cart functionality, and secure payment integration.',
-      image: '/images/trendaura.png',
+      image: '/trendaura.png',
       technologies: ['React', 'CSS3', 'JavaScript', 'Bootstrap'],
       github: 'https://github.com/palasathwik95/Trend-aura.git',
     },
@@ -22,7 +22,7 @@ const Projects = () => {
     {
       title: 'Profile-map ',
       description: 'Build a pure frontend application that integrates Google Maps to track and display user locations. The app should support adding, editing, and deleting users, with their data (including location) stored temporarily in the browser using localStorage.',
-      image: '/images/profilemap.png',
+      image: '/profilemap.png',
       technologies: ['React', 'Bootstrap', 'CSS3', 'JavaScript'],
       github: 'https://github.com/palasathwik95/profile-map.git',
       
