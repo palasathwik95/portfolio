@@ -83,7 +83,7 @@ const Hero = () => {
           
           <Col lg={6} className="text-center">
             <img
-              src="https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg?auto=compress&cs=tinysrgb&w=400"
+              src="/sath132.jpg"
               alt="Profile"
               className="profile-img"
             />
